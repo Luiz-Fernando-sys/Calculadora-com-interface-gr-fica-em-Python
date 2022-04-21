@@ -1,3 +1,5 @@
+# DESENVOLVEDOR: Luiz Fernando A. Reis
+
 #Importando as bibliotecas necessárias para trabalharmos com interface gráfica em python
 from sys import flags
 from tkinter import *
